@@ -50,7 +50,7 @@ This project focuses on analyzing **Flipkart mobile phone sales data** to extrac
 
 ## 📊 Dashboard Preview
 
-> 🔗 *[View the Live Power BI Dashboard](#)*
+> 🔗 [View the Live Power BI Dashboard](https://app.powerbi.com/links/cmXIAwSvRu?ctid=93fa03ea-bf2f-4179-aa6b-8adf04747ba4&pbi_source=linkShare)
 
 The interactive Power BI dashboard includes:
 
